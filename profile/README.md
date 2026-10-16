@@ -2,13 +2,11 @@
 
 Voluntários de tecnologia construindo ferramentas para o Comitê Popular: agendas de eventos, conteúdo para municípios, sites e a infraestrutura que mantém tudo no ar.
 
-| Ainda não está num grupo? | Já está numa iniciativa? |
-|---|---|
-| **[Escolha uma vaga no Mural →](https://mural.boralula.org/)** | **[Peça acesso aos repositórios →](https://github.com/comite-popular-tech/voluntariado/issues/new?template=pedido-de-acesso.yml)** |
+## Quero ajudar: entre pelo Mural
 
-## Chegou agora? Comece pelo Mural
+**[Abrir o Mural do Comitê Tech →](https://mural.boralula.org/)**
 
-Se você ainda não está em nenhum grupo, não precisa pedir acesso aqui. No Mural você escolhe onde ajudar pelo que sabe fazer:
+O Mural é a porta de entrada. Se você ainda não está em nenhum GT, comece sempre por ele, e não por aqui. No Mural você escolhe onde ajudar pelo que sabe fazer:
 
 - **Vagas:** filtre por tema e habilidade e clique em *Tenho interesse*. A coordenação do GT te chama no WhatsApp.
 - **GTs:** veja os grupos de trabalho, oficiais e da comunidade, e o canal de cada um.
@@ -16,9 +14,13 @@ Se você ainda não está em nenhum grupo, não precisa pedir acesso aqui. No Mu
 
 Você entra com a conta Google e preenche um perfil curto, com o WhatsApp para a coordenação te chamar.
 
-## Já está numa iniciativa? Peça acesso ao GitHub
+## Já está num GT? Peça um repositório ou uma iniciativa nova
 
-Os repositórios são para quem já participa de um GT e vai trabalhar no código.
+**[Peça um repositório novo →](https://github.com/comite-popular-tech/voluntariado/issues/new?template=novo-repositorio.yml)**
+
+O pedido sai de uma conversa dentro do GT: o grupo combina o que vai construir e alguém abre o pedido. Serve para um repositório numa iniciativa que já existe ou para uma iniciativa nova. Sem GT, o pedido não anda. Volte ao Mural e entre num grupo primeiro.
+
+## Já está num GT? Peça acesso aos repositórios
 
 **[Peça acesso a uma iniciativa →](https://github.com/comite-popular-tech/voluntariado/issues/new?template=pedido-de-acesso.yml)**
 
