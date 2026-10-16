@@ -14,21 +14,62 @@ O Mural é a porta de entrada. Se você ainda não está em nenhum GT, comece se
 
 Você entra com a conta Google e preenche um perfil curto, com o WhatsApp para a coordenação te chamar.
 
-## Já está num GT? Peça um repositório ou uma iniciativa nova
+## Já está num GT? Três pedidos, um para cada passo
+
+Os pedidos são de autoatendimento: você abre pelo GitHub, sem ninguém editar configuração à mão. Cada um acompanha um passo do seu envolvimento, e ninguém precisa passar por todos: entre direto na etapa que você já vive.
+
+| Passo | Pedido | Quem aprova |
+|---|---|---|
+| Entrei num GT | [1. Acesso aos repositórios](#1-peça-acesso-aos-repositórios) | O núcleo da iniciativa |
+| O GT vai construir algo | [2. Repositório ou iniciativa nova](#2-peça-um-repositório-ou-uma-iniciativa-nova) | Um admin da org |
+| Cuido da frente | [3. Entrada no núcleo](#3-pôr-alguém-no-núcleo-acesso-de-escrita-com-muito-cuidado) | Um admin da org, com muito cuidado |
+
+Nos três, a sua issue fecha na hora e recebe um comentário com o link do pedido. Se você não conseguir abri-lo, é normal: mande o link para quem aprova.
+
+### 1. Peça acesso aos repositórios
+
+**[Peça acesso a uma iniciativa →](https://github.com/comite-popular-tech/voluntariado/issues/new?template=pedido-de-acesso.yml)**
+
+1. Abra o pedido com a conta do GitHub que você vai usar e escolha a iniciativa.
+2. O núcleo da iniciativa avalia o pedido. Mande o link do pedido para alguém do núcleo.
+3. Aprovado, chega no seu e-mail um convite do GitHub para entrar na org. Aceite o convite para ver os repositórios da iniciativa.
+
+### 2. Peça um repositório ou uma iniciativa nova
 
 **[Peça um repositório novo →](https://github.com/comite-popular-tech/voluntariado/issues/new?template=novo-repositorio.yml)**
 
 O pedido sai de uma conversa dentro do GT: o grupo combina o que vai construir e alguém abre o pedido. Sem GT, o pedido não anda. Volte ao Mural e entre num grupo primeiro.
 
-No pedido, escolha a iniciativa do repositório, ou "nova" para criar uma iniciativa, que começa com os times vazios. Um admin da org avalia o pedido. Se você não conseguir abrir o link que aparece na sua issue, mande-o para um admin.
+No pedido, escolha a iniciativa do repositório, ou "nova" para criar uma iniciativa, que começa com os times vazios. Um admin da org avalia o pedido. Mande o link do pedido para um admin.
 
-## Já está num GT? Peça acesso aos repositórios
+### 3. Pôr alguém no núcleo: acesso de escrita, com muito cuidado
 
-**[Peça acesso a uma iniciativa →](https://github.com/comite-popular-tech/voluntariado/issues/new?template=pedido-de-acesso.yml)**
+**[Peça a entrada de alguém no núcleo →](https://github.com/comite-popular-tech/voluntariado/issues/new?template=membro-do-nucleo.yml)**
 
-1. Abra o pedido com a conta do GitHub que você vai usar e escolha a iniciativa.
-2. O núcleo da iniciativa avalia o pedido. A sua issue recebe um comentário com o link do pedido: se você não conseguir abri-lo, é normal; mande o link para alguém do núcleo.
-3. Aprovado, chega no seu e-mail um convite do GitHub para entrar na org. Aceite o convite para ver os repositórios da iniciativa.
+> [!CAUTION]
+> Quem está no núcleo dá push na `main`, publica e lê os segredos dos repositórios da frente. Só peça para quem o núcleo da frente já conhece e confia.
+
+Qualquer pessoa pode pedir, para si ou para outra, informando o usuário do GitHub e a frente. O pedido vira um PR que um admin da org só junta depois de conferir:
+
+- se foi a própria pessoa que pediu;
+- se o núcleo da frente conhece a pessoa e confirmou;
+- se a conta do GitHub é mesmo dela;
+- se a verificação em duas etapas está ligada.
+
+Na dúvida, o pedido não entra.
+
+## Quem pode ajudar
+
+Travou num pedido, num acesso ou num merge? Fale com uma destas pessoas:
+
+- Gabriel
+- Kadu ([@kaducovas](https://github.com/kaducovas))
+- Guilherme ([@guipfranco](https://github.com/guipfranco))
+- Filipe ([@fbaetalab](https://github.com/fbaetalab))
+- Moreto ([@the-zokai](https://github.com/the-zokai))
+- Gomex ([@gomex](https://github.com/gomex))
+- Pirola ([@lpirola](https://github.com/lpirola))
+- Alê ([@aleboava](https://github.com/aleboava))
 
 ## Iniciativas
 
