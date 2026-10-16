@@ -7,8 +7,14 @@ Voluntários de tecnologia construindo ferramentas para o Comitê Popular: agend
 **[Peça acesso a uma iniciativa →](https://github.com/comite-popular-tech/voluntariado/issues/new?template=pedido-de-acesso.yml)**
 
 1. Abra o pedido com a conta do GitHub que você vai usar e escolha a iniciativa.
-2. O núcleo da iniciativa avalia o pedido.
+2. O núcleo da iniciativa avalia o pedido. A sua issue recebe um comentário com o link do pedido: se você não conseguir abri-lo, é normal; mande o link para alguém do núcleo.
 3. Aprovado, chega no seu e-mail um convite do GitHub para entrar na org. Aceite o convite para ver os repositórios da iniciativa.
+
+## Quero um repositório novo
+
+**[Peça um repositório →](https://github.com/comite-popular-tech/voluntariado/issues/new?template=novo-repositorio.yml)**
+
+Escolha a iniciativa do repositório, ou "nova" para criar uma iniciativa, que começa com os times vazios. Um admin da org avalia o pedido. Se você não conseguir abrir o link que aparece na sua issue, mande-o para um admin.
 
 ## Iniciativas
 
