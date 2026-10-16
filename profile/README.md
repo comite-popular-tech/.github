@@ -2,9 +2,11 @@
 
 Voluntários de tecnologia construindo ferramentas para o Comitê Popular: agendas de eventos, conteúdo para municípios, sites e a infraestrutura que mantém tudo no ar.
 
-## Chegou agora? Comece pelo Mural
+| Ainda não está num grupo? | Já está numa iniciativa? |
+|---|---|
+| **[Escolha uma vaga no Mural →](https://mural.boralula.org/)** | **[Peça acesso aos repositórios →](https://github.com/comite-popular-tech/voluntariado/issues/new?template=pedido-de-acesso.yml)** |
 
-**[Abrir o Mural do Comitê Tech →](https://mural.boralula.org/)**
+## Chegou agora? Comece pelo Mural
 
 Se você ainda não está em nenhum grupo, não precisa pedir acesso aqui. No Mural você escolhe onde ajudar pelo que sabe fazer:
 
