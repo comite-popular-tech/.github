@@ -2,7 +2,21 @@
 
 Voluntários de tecnologia construindo ferramentas para o Comitê Popular: agendas de eventos, conteúdo para municípios, sites e a infraestrutura que mantém tudo no ar.
 
-## Quero ajudar
+## Chegou agora? Comece pelo Mural
+
+**[Abrir o Mural do Comitê Tech →](https://mural.boralula.org/)**
+
+Se você ainda não está em nenhum grupo, não precisa pedir acesso aqui. No Mural você escolhe onde ajudar pelo que sabe fazer:
+
+- **Vagas:** filtre por tema e habilidade e clique em *Tenho interesse*. A coordenação do GT te chama no WhatsApp.
+- **GTs:** veja os grupos de trabalho, oficiais e da comunidade, e o canal de cada um.
+- **Ideias:** proponha uma ideia ou marque que quer participar de uma.
+
+Você entra com a conta Google e preenche um perfil curto, com o WhatsApp para a coordenação te chamar.
+
+## Já está numa iniciativa? Peça acesso ao GitHub
+
+Os repositórios são para quem já participa de um GT e vai trabalhar no código.
 
 **[Peça acesso a uma iniciativa →](https://github.com/comite-popular-tech/voluntariado/issues/new?template=pedido-de-acesso.yml)**
 
@@ -16,7 +30,7 @@ Voluntários de tecnologia construindo ferramentas para o Comitê Popular: agend
 |---|---|
 | `agenda` | Agenda de eventos: coleta, revisão e publicação dos eventos |
 | `conteudo` | Produção de conteúdo para municípios |
-| `mural` | Mural de vagas, iniciativas e ideias para os voluntários |
+| `mural` | [Mural](https://mural.boralula.org/) de vagas, GTs e ideias para os voluntários |
 | `infra-sec` | Infraestrutura e segurança de todas as iniciativas |
 | `hub` | Hub |
 | `virometro` | Virômetro: registro de votos virados |
