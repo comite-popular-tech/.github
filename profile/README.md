@@ -14,6 +14,22 @@ O Mural é a porta de entrada. Se você ainda não está em nenhum GT, comece se
 
 Você entra com a conta Google e preenche um perfil curto, com o WhatsApp para a coordenação te chamar.
 
+## Como o boralula.org é feito
+
+Cada endereço do boralula.org sai de um repositório. Para mexer num deles, peça acesso à iniciativa daquele repositório (pedido 1, abaixo).
+
+```mermaid
+flowchart LR
+  A[agregador-de-agendas] --> S1[boralula.org]
+  A --> S2[apresentacao.boralula.org]
+  M[mural-comite-tech] --> S3[mural.boralula.org]
+  P[producao-de-conteudo-para-municipios] --> S4[quiz.boralula.org]
+  P --> S5[revisao.boralula.org]
+  P --> S6[jogo.boralula.org]
+```
+
+Em geral, a mudança chega assim: o PR é revisado e entra na branch principal, os testes rodam, o ambiente de dev é publicado sozinho e a produção é publicada por quem cuida da frente. O detalhe de cada um fica no README do repositório.
+
 ## Já está num GT? Três pedidos, um para cada passo
 
 Os pedidos são de autoatendimento: você abre pelo GitHub, sem ninguém editar configuração à mão. Cada um acompanha um passo do seu envolvimento, e ninguém precisa passar por todos: entre direto na etapa que você já vive.
